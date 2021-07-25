@@ -1,12 +1,9 @@
 <p align="center">
   
-<img width="200" src="http://github.com/clarefmccann/clarefmccann/header" alt="Hello there!"> 
+<img width="500" src="https://github.com/clarefmccann/clarefmccann/blob/main/hello_gif.gif" alt="Hello there!"> 
 
 </p>
    
-# Hi all, thanks for stopping by!
-  
-
 ## *A little bit about me...*
    
 🌷  **Pronouns** -- 
@@ -31,9 +28,11 @@
 [3.2]: https://img.icons8.com/doodle/60/000000/linkedin--v2.png
 [2.2]: https://img.icons8.com/doodle/60/000000/mail-with-wings.png
 
+
 [1]: https://twitter.com/clarefmccann 
 [2]: https://www.linkedin.com/in/clare-mccann-9a5172192/
 [3]: cmccann2@uoregon.edu
+  
 
 
 [![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarefmccann&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarefmccann&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
