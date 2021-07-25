@@ -1,4 +1,3 @@
-![Header](header.jpeg)
 
 <!--Uploading welcome gif -->
 
@@ -29,7 +28,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://www.logolynx.com/images/logolynx/64/64a2d789ae954e51a7511a271e2903fb.jpeg
+[1.2]: 
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to social media accounts -->
