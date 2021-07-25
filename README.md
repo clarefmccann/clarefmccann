@@ -1,16 +1,41 @@
-### Hi there 👋
+![Header](https://github.com/clarefmccann/clarefmccann/clarefmccann/github_photo.png "Header")
 
-<!--
-**clarefmccann/clarefmccann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Uploading welcome gif -->
 
-Here are some ideas to get you started:
+![Welcome](welcome_gif.gif) / !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Actual text -->
+
+Hi all, thanks for stopping by!
+
+*A little bit about me...*
+
+🌷 **Pronouns** -- she/her/hers
+
+🌟 **Past** -- graduated from the University of Oregon in June of 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. 
+
+🌲 **Present** -- working as Project Coordinator in the Developmental Social Neuroscience lab at the UO!
+
+☀️ **Future** -- applying to PhD programs this fall!
+
+**Interests** -- socioemotional development, education, neuroscience, community-based interventions and preventions, data science
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+
+<!-- Icons -->
+
+[1.2]: https://i.imgur.com/wWzX9uB.png
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to social media accounts -->
+
+[1]: https://twitter.com/clarefmccann
+[2]: https://www.linkedin.com/in/clare-mccann-9a5172192/
+
+<!-- Actual Text -->
+
+Feel free to reach out -- cmccann2@uoregon.edu
+
+<!-- Github Stats -->
+
+[![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarefmccann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
