@@ -1,30 +1,35 @@
-![Header](https://github.com/clarefmccann/clarefmccann/clarefmccann/github_photo.png "Header")
+![Header](github_photo.jpeg)
 
 <!--Uploading welcome gif -->
 
-![Welcome](welcome_gif.gif) / !
+![Welcome](hello_gif.gif) 
 
 <!-- Actual text -->
 
-Hi all, thanks for stopping by!
+# Hi all, thanks for stopping by!
 
-*A little bit about me...*
+## *A little bit about me...*
 
-🌷 **Pronouns** -- she/her/hers
+🌷  **Pronouns** -- 
+> she/her/hers
 
-🌟 **Past** -- graduated from the University of Oregon in June of 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. 
+🌟  **Past** -- 
+> graduated from the University of Oregon in June of 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. 
 
-🌲 **Present** -- working as Project Coordinator in the Developmental Social Neuroscience lab at the UO!
+🌲  **Present** -- 
+> working as Project Coordinator in the Developmental Social Neuroscience lab at the UO!
 
-☀️ **Future** -- applying to PhD programs this fall!
+☀️  **Future** -- 
+> applying to PhD programs this fall!
 
-**Interests** -- socioemotional development, education, neuroscience, community-based interventions and preventions, data science
+🧠  **Interests** -- 
+> socioemotional development, education, neuroscience, community-based interventions and preventions, data science
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/wWzX9uB.png
+[1.2]: https://www.logolynx.com/images/logolynx/64/64a2d789ae954e51a7511a271e2903fb.jpeg
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to social media accounts -->
