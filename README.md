@@ -1,4 +1,4 @@
-![Header](github_photo.jpeg)
+![Header](header.jpeg)
 
 <!--Uploading welcome gif -->
 
