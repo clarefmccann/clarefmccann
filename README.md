@@ -16,7 +16,7 @@
 > working as Project Coordinator in the Developmental Social Neuroscience lab at the UO!
 
 ☀️  **Future** -- 
-> applying to PhD programs this fall!
+> attending UCLA's Developmental PhD program in the fall 
 
 🧠  **Interests** -- 
 > socioemotional development, education, neuroscience, community-based interventions and preventions, data science
