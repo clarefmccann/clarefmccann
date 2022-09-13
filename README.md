@@ -10,16 +10,16 @@
 > she/her/hers
 
 🌟  **Past** -- 
-> graduated from the University of Oregon in June of 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. 
+> graduated from the University of Oregon in June of 2020 with honors in Psychology and minors in Special Education and Women's Gender and Sexuality Studies. Worked as Lead Lab Coordinator for the Developmental Social Neuroscience lab at the UO. 
 
 🌲  **Present** -- 
-> working as Project Coordinator in the Developmental Social Neuroscience lab at the UO!
+> attending UCLA's Development Psychology PhD program focusing on adolescent development
 
 ☀️  **Future** -- 
-> attending UCLA's Developmental PhD program in the fall 
+> understand and disseminate evidence-based curriculum for pubertal processes
 
 🧠  **Interests** -- 
-> socioemotional development, education, neuroscience, community-based interventions and preventions, data science
+> puberty, socioemotional development, education, neuroscience, community-based interventions and preventions, data science
 
 [![Twitter][1.2]][1] [![LinkedIn][3.2]][2] [![Email][2.2]][3]
 
