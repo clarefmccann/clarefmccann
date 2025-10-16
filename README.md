@@ -31,7 +31,7 @@
 
 [1]: https://twitter.com/clarefmccann 
 [2]: https://www.linkedin.com/in/clare-mccann-9a5172192/
-[3]: cmccann2@uoregon.edu
+[3]: clarefmccann [at] ucla.edu
   
 
 
