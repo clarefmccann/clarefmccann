@@ -36,5 +36,5 @@
 
 
 [![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarefmccann&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarefmccann&layout=compact&langs_count=6&hide=html,scss
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarefmccann&layout=compact&langs_count=6&hide=html,scss,MATLAB
 )](https://github.com/anuraghazra/github-readme-stats)
