@@ -31,10 +31,10 @@
 
 [1]: https://twitter.com/clarefmccann 
 [2]: https://www.linkedin.com/in/clare-mccann-9a5172192/
-[3]: clarefmccann [at] ucla.edu
+[3]: clarefmccann@ucla.edu
   
 
 
-[![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarefmccann&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarefmccann&count_private=true&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarefmccann&layout=compact&langs_count=6&hide=html,scss,MATLAB&size_weight=0.6&count_weight=0.4
 )](https://github.com/anuraghazra/github-readme-stats)
